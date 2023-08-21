@@ -19,3 +19,4 @@ def langtons_ant(steps):
 
 # Ejemplo de uso
 langtons_ant(steps=11000)
+
